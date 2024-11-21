@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* header-section is here */
+
+.header {
+    width: 100%;
+    background-color: black;
+}
+
+.header-right {
+    width: 7%;
+}
+
+
+.header-log {
+    width: 119%;
+}
+
+.header-left {
+    padding: 2% 6%;
+    margin-top: -8%;
+    text-align: end;
+    font-size: 58%;
+}
+
+.header-list {
+    height: 27px;
+    color: white;
+}
+
+
+
+/* hero-section */
+
+
+.hero-section {
+    background-color: black;
+    padding-bottom: 29px;
+}
+
+.hero-img {
+    width: 100%;
+    object-fit: cover;
+}
+
+.hero-text {
+    text-align: center;
+    color: white;
+    margin-top: 27px;
+    border-bottom: 4px solid white;
+}
+
+
+/* mid-hero-section */
+
+.mid-hero-section {
+    border: 2px solid black;
+    margin: 5%;
+    padding: 0% 2%;
+    border-radius: 5px;
+    padding-top: 23%;
+}
+
+.mid-hero {
+    margin-left: 8%;
+    margin-right: 6%;
+    margin-top: -25%;
+}
+
+.mid-hero-img {
+    width: 27%;
+    object-fit: cover;
+    border-radius: 68%;
+    border: 2px solid black;
+}
+
+.mid-hero-textbox {
+    width: 61%;
+    margin-left: 37%;
+    margin-top: -31%;
+    font-size: 77%;
+    font-weight: 100;
+}
+
+
+.mid-hero-text {
+    width: 100%;
+    margin-top: 11%;
+    margin-bottom: 5%;
+}
+
+.mid-hero-text h1 {
+    font-size: x-large;
+    border-bottom: 2px solid black;
+}
+
+.mid-hero-text h3 {
+    margin-top: 1%;
+}
+
+.mid-hero-text ul {
+    margin-top: 4%;
+    font-size: x-large
+}
+
+.mid-hero-text ul li {
+    margin-top: 1%;
+}
+
+
+/* form-section */
+
+
+.form-section {
+    margin-left: 6%;
+    margin-right: 6%;
+}
+
+.txt-area{
+    width: 100%;
+}
+
+.form-header {
+    text-align: center;
+    padding: 30px 0px;
+}
+
+span{
+    color: crimson;
+}
+
+.form-detail h2 {
+    color: #133E87;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.form-detail li {
+    list-style: none;
+}
+
+#msg{
+    margin: 10px 0;
+    padding: 15px;
+}
+
+.form input {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    padding: 10px;
+}
+
+.form-button {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.form-button button{
+    border: 1px solid grey;
+    padding: 20px;
+    width: 100%;
+    font-size: 20px;
+    background: royalblue;
+    color: white;
+}
+
+.footer {
+    background-color: black;
+    color: #fff;
+    font-size: 20px;
+    text-align: center;
+    padding: 30px;
+}
